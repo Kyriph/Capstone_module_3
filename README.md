@@ -50,7 +50,7 @@ Konsekuensi: Mayoritas karakteristik pelanggan yang memesan kamar hotel.
 - Berdasarkan dari pemodelan yang sudah dilakukan , feature `customer_type_transient`, dan `required_parking_space` menjadi feature yang paling berpengaruh terhadap Target
 - Metric evaluasi yang digunakan pada model ini adalah recall score. Jika dilihat bahwa hasilnya adalah 1 itu menandakan bahwa model ini berhasil membaca bahwa jumlah calon pelanggan tidak akan membatalkan pemesanan mereka dan ternyata mereka membatalkan pemesanan mereka menjadi 0.
 
-## **Reccomendation**
+## **Recomendation**
 
 - Sebaiknya cancellation policy hotel bisa lebih di perketat lagi agar para customer tidak seenaknya untuk melakukan pembatalan.
 - Jika ada pelanggan yang membatalkan pemesanan kamar, sebaiknya pihak hotel langsung follow up ke pelanggan lain bahwa ada kamar kosong yang bisa di pesan agar perusahaan tidak kehilangan pendapatan.
